@@ -1,0 +1,30 @@
+body,dl,dd,ul,ol,h1,h2,h3,h4,h5,h6,pre,form,input,textarea,p,hr,thead,tbody,tfoot,th,td{margin:0;padding:0;}
+ul,ol{list-style:none;}
+a{text-decoration:none;}
+html{font-size:50px;font-family: "Helvetica Neue",Helvetica,"PingFang SC","Hiragino Sans GB","Microsoft YaHei","微软雅黑",Arial,sans-serif;height:100%;width:100%;}
+body{line-height:1.5;font-size:16px;height:100%;width:100%;background:#f8f8f9}
+.g-doc{width:6.4rem;margin:0px auto;}
+
+.page-title{
+    font-size:$fztitle;
+    color:$title;
+}
+.text-align{
+    text-align: center;
+}
+.justify-center{
+    justify-content: center;
+}
+.justify-center{
+    justify-content: center;
+    
+}
+.align-items{
+    align-items: center
+}
+.flex{
+    display:flex;
+}
+.justify-between{
+    justify-content: space-between
+}
